@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 09f306802b5a872d444aa8e5312fe41665b7f440 Gustavolrsc <gustavolrsc@gmail.com> 1747078294 -0300	commit (initial): deploy
+09f306802b5a872d444aa8e5312fe41665b7f440 2b33d67805df3ebef88bd818bc59516a6d50181c Gustavolrsc <gustavolrsc@gmail.com> 1747079027 -0300	commit: deploy
+2b33d67805df3ebef88bd818bc59516a6d50181c 1b4bde4cca3a1294c8fa42146777b6d5997e55ec Gustavolrsc <gustavolrsc@gmail.com> 1747079128 -0300	pull origin master --rebase (start): checkout 1b4bde4cca3a1294c8fa42146777b6d5997e55ec
+1b4bde4cca3a1294c8fa42146777b6d5997e55ec 2b33d67805df3ebef88bd818bc59516a6d50181c Gustavolrsc <gustavolrsc@gmail.com> 1747079173 -0300	rebase (abort): returning to refs/heads/master
+2b33d67805df3ebef88bd818bc59516a6d50181c a4087e1466d437cd222377b2e8f7ce3eeec29104 Gustavolrsc <gustavolrsc@gmail.com> 1747079590 -0300	commit: deploy
