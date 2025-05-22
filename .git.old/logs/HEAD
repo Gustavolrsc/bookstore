@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 8c5b22c4aaec72bf09ddbd1109b38dbebc8f656b Gustavolrsc <gustavolrsc@gmail.com> 1747928680 -0300	commit (initial): deploy
+8c5b22c4aaec72bf09ddbd1109b38dbebc8f656b 629f1412704caed030f2b1d5142a733a96209f4f Gustavolrsc <gustavolrsc@gmail.com> 1747929999 -0300	commit: deploy
+629f1412704caed030f2b1d5142a733a96209f4f a20661947704046bdb11bd1c803539fae201031e Gustavolrsc <gustavolrsc@gmail.com> 1747930126 -0300	pull origin master --rebase (start): checkout a20661947704046bdb11bd1c803539fae201031e
+a20661947704046bdb11bd1c803539fae201031e be9bb9971aea3f96c3c1783f460d3c9a2a52bad5 Gustavolrsc <gustavolrsc@gmail.com> 1747930196 -0300	rebase (continue): deploy
+be9bb9971aea3f96c3c1783f460d3c9a2a52bad5 629f1412704caed030f2b1d5142a733a96209f4f Gustavolrsc <gustavolrsc@gmail.com> 1747930335 -0300	rebase (abort): returning to refs/heads/master
+629f1412704caed030f2b1d5142a733a96209f4f 6f5b851214fc4355a2a4f31fc618b710d95ceed6 Gustavolrsc <gustavolrsc@gmail.com> 1747930373 -0300	commit: Salvando alterações antes do rebase
+6f5b851214fc4355a2a4f31fc618b710d95ceed6 a20661947704046bdb11bd1c803539fae201031e Gustavolrsc <gustavolrsc@gmail.com> 1747930381 -0300	pull origin master --rebase (start): checkout a20661947704046bdb11bd1c803539fae201031e
+a20661947704046bdb11bd1c803539fae201031e 6f5b851214fc4355a2a4f31fc618b710d95ceed6 Gustavolrsc <gustavolrsc@gmail.com> 1747930404 -0300	rebase (abort): returning to refs/heads/master
